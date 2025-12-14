@@ -1,0 +1,8 @@
+model\GameModel.class
+web\HTMLRenderer.class
+model\Card.class
+view\GameView.class
+model\Player.class
+controller\GameController.class
+web\WebServer.class
+view\ConsoleView.class
