@@ -46,5 +46,5 @@ The application is deployed on Render.com as a Java web service.
 - HTML/CSS (view only)
 
 ## Running Locally
-mvn clean package
-java -jar target/emoji-matching-game-1.0.jar
+mvn clean package  
+java -jar target/C322_Project1-1.0.jar  
