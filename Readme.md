@@ -1,5 +1,7 @@
 # Emoji Matching Game (MVC)
 
+Site: 
+
 ## Overview
 This project is a standalone Java implementation of a two-player emoji
 matching gamee to demonstrate a clean mvc architecture.
@@ -28,7 +30,7 @@ The controller receives user actions (card selections) and updates the
 model accordingly. It contains no rendering logic.
 
 ### Flow
-User action → Controller → Model update → View re-render
+User action -> Controller -> Model update -> View re-render
 
 ## Web Deployment
 The game is wrapped with a minimal Java web server.
